@@ -17,16 +17,26 @@ Python es un lenguaje de programación imprescindible para el entorno del desarr
 ### TURTLE
 El módulo .tutle es una biblioteca pre-instalada en python con el fin de dar al usuario la posibilidad de crear gráficos e imágenes, dibujando figuras intrincadas usando programas que repiten movimientos simples.
 Las clases usadas con este módulo en el proyecto fueron:
+
 *Screen(): 
           -setx
+          
           -sety
+          
           -right
+          
           -left
+          
           -speed
+          
           -xcor
+          
           -ycor
+          
           -penup
+          
           -color
+          
 Y demas funciones fueron usadas para la creación de este programa, facilitando la interfaz gráfica del usuario con el algoritmo y dando la posibilidad de los movimientos y acciones que realiza el programa al ser ejecutado.
 ### RANDOM
 ### TIME
