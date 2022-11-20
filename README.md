@@ -14,6 +14,7 @@ Universidad EAN - Segundo Semestre - Ciclo 4
 ### PYTHON
 Python es un lenguaje de programación imprescindible para el entorno del desarrollo web, siendo el lenguaje más usado a nivel mundial, es utilizado en la creación de aplicaciones web, machine learning y ciencia de datos, al ser un lenguaje tan sencillo de aprender y compatible con multiples plataformas a la hora de ser usado, lo hace catalogarse en esta posición. Además de la sintaxis de código que se tiene, una biblioteca estándar amplia, y menor iso de líneas de código.
 ### VISUAL STUDIO CODE
+Visual Studio Code se trata un editor de código fuente desarrollado por Microsoft. Es un software libre y multiplataforma, Se integra bien con Git, admite la depuración de código y tiene innumerables extensiones que básicamente le permiten escribir y ejecutar código en cualquier lenguaje de programación.
 ### TURTLE
 El módulo .tutle es una biblioteca pre-instalada en python con el fin de dar al usuario la posibilidad de crear gráficos e imágenes, dibujando figuras intrincadas usando programas que repiten movimientos simples.
 Las clases usadas con este módulo en el proyecto fueron:
