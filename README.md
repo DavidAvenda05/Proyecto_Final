@@ -10,6 +10,8 @@ Universidad EAN - Segundo Semestre - Ciclo 4
 21-11-2022 Bogota D.C.
 
 ## INTRODUCCIÓN
+Pacman es un famoso videojuego que sin duda ha hecho historia, siendo el más exitoso en los años 80 ganando un Récord Guiness, se trata de un circulo amarillo que simula una boca, va moviéndose por laberintos para obtener puntos hasta comer todos los que se encuentren en la pantalla y es perseguido por fantasmas que, si cruzan con el jugador, se pierde una vida automáticamente y reaparece desde el punto inicial sin perder el progreso. Cuenta con habilidades que lo hacen más rápido o inmune a los fantasmas por un límite de tiempo y que así el juego sea más entretenido, cada jugador posee 3 vidas y entre más se avance, más complicado se hace. Fue lanzado el 22 de mayo de 1980 por Toru Iwatani de la empresa Namco, consolidándose como uno de los videojuegos más icónicos de la historia.
+Una vez aclarada cual es la inspiración de este proyecto, a continuación, se abordará como fue su realización y explicamos como funciona.
 ## PROGRAMAS Y EXTENSIONES
 ### PYTHON
 Python es un lenguaje de programación imprescindible para el entorno del desarrollo web, siendo el lenguaje más usado a nivel mundial, es utilizado en la creación de aplicaciones web, machine learning y ciencia de datos, al ser un lenguaje tan sencillo de aprender y compatible con multiples plataformas a la hora de ser usado, lo hace catalogarse en esta posición. Además de la sintaxis de código que se tiene, una biblioteca estándar amplia, y menor iso de líneas de código.
