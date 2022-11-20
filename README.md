@@ -39,8 +39,12 @@ Las clases usadas con este módulo en el proyecto fueron:
           
 Y demas funciones fueron usadas para la creación de este programa, facilitando la interfaz gráfica del usuario con el algoritmo y dando la posibilidad de los movimientos y acciones que realiza el programa al ser ejecutado.
 ### RANDOM
+Este módulo implementa al desarrollador la generación de números pseudoaleatorios para las distribuciones necesarias en el programa.
+Para el programa se usa *random.randint* con el fin de generar la comida y enemigos de manera aleatoria en unas cordenadas que limita la función.
 ### TIME
+Este módulo como su nombre lo indica, da lugar a la creación de funciones relacionadas con el tiempo. 
 
+Para el proyecto se implemento la función time.sleep combinada junto a el módulo .turtle da lugar que el Pacman 
 ## CODIFICACIÓN DEL PROGRAMA
 
 ## CONSLUSIONES
