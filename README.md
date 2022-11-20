@@ -44,10 +44,24 @@ Para el programa se usa *random.randint* con el fin de generar la comida y enemi
 ### TIME
 Este módulo como su nombre lo indica, da lugar a la creación de funciones relacionadas con el tiempo. 
 
-Para el proyecto se implemento la función time.sleep combinada junto a el módulo .turtle da lugar que el Pacman 
+Para el proyecto se implemento la función time.sleep combinada junto a el módulo .turtle da lugar que el Pacman al acercarse con los límites del programa (bordes), o con los enemigos, este se reincie y de un tiempo de espera de un segundo para volver y aparecer en las coordenadas (0,0), con el fin de empezar de nuevo el programa.
+
 ## CODIFICACIÓN DEL PROGRAMA
 
 ## CONSLUSIONES
 
 ## REFERENCIAS
+Python, R. (2020, febrero 26). The beginner’s guide to Python turtle. Realpython.com; Real Python. https://realpython.com/beginners-guide-python-turtle/
+
+Python random module. (2021, julio 22). GeeksforGeeks. https://www.geeksforgeeks.org/python-random-module/
+
+random —Generar números pseudoaleatorios — documentación de Python - 3.11.0. (s/f). Python.org. Recuperado el 20 de noviembre de 2022, de https://docs.python.org/es/3/library/random.html
+
+time — Acceso a tiempo y conversiones — documentación de Python - 3.11.0. (s/f). Python.org. Recuperado el 20 de noviembre de 2022, de https://docs.python.org/es/3/library/time.html
+
+turtle — Gráficos con Turtle — documentación de Python - 3.9.14. (s/f). Python.org. Recuperado el 20 de noviembre de 2022, de https://docs.python.org/es/3.9/library/turtle.html
+
+(S/f). Amazon.com. Recuperado el 20 de noviembre de 2022, de https://aws.amazon.com/es/what-is/python/
+
+
 
