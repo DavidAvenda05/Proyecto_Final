@@ -50,8 +50,12 @@ Este módulo como su nombre lo indica, da lugar a la creación de funciones rela
 Para el proyecto se implemento la función time.sleep combinada junto a el módulo .turtle da lugar que el Pacman al acercarse con los límites del programa (bordes), o con los enemigos, este se reincie y de un tiempo de espera de un segundo para volver y aparecer en las coordenadas (0,0), con el fin de empezar de nuevo el programa.
 
 ## CODIFICACIÓN DEL PROGRAMA
+Como se menciono a lo largo de la documentación, la codificación se basa en la importación de 3 bibliotecas pre-instaladas en python con el fin de dar una interfaz gráifca con el usuario al usar el programa.
+
+.Turtle ; .time ; .random ; fueron las bibliotecas usadas, se crearon 2 varibles principales con el fin del uso del programa las cuales fueron: pacman y la ventana de salida al ejecutar el programa; 2 listas: enemigos y alimento. Todas estas con el uso de las bibliotecas, ya explicadas anteriormente.
 
 ## CONSLUSIONES
+Al momento de pensar en programar un juego que ya existe, buscamos la idea de algo diferente iniciando de lo clásico, se puede pensar que es bastante sencillo de realizar, la creación de un juego nos ayudo a realizar una lógica diferente y como desde una codificación en un lenguaje sencillo, dar una interfaz al usuario buena y divertida, pensar en como dar límites, o como hacer que una puntuación sume cada vez que un "pacman" se acerca a una bola, y así mismo disminuir las vidas al tener contacto con un enemigo, podemos concluir que la realización de un código para el entretenimiento, es una manera de lograr lógica, y una oportunidad investigativa e interesante de realizar, el conocimiento en programación acerca de diseño, bibliotecas y demas ayudo a un nuevo modo de ver la programación que puede ir hacia un fin de diversión.
 
 ## REFERENCIAS
 Python, R. (2020, febrero 26). The beginner’s guide to Python turtle. Realpython.com; Real Python. https://realpython.com/beginners-guide-python-turtle/
